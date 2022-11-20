@@ -13,6 +13,9 @@ In September of 2022, Jackson, Mississippi, a modern American city experienced a
 ## Tech Stack
 Built with FEVM and Solidity
 
+## Deployment on Wallaby
+https://explorer.glif.io/tx/0x91a8b273f7a2cd85207f83a31dd999fc6f41be73169d6fed07f33f7818c0d8a7/?network=wallabynet
+0x91a8b273f7a2cd85207f83a31dd999fc6f41be73169d6fed07f33f7818c0d8a7
 
 ## Challenges I ran into
 Glif wallet sub-accounts and test net funds not recognized
@@ -20,6 +23,8 @@ Glif wallet sub-accounts and test net funds not recognized
 
 ## What I learned
 Learned more about FEVM and how to deploy smart contract to FEVM with Hardhat
+
+
 
 
 
